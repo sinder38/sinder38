@@ -13,35 +13,37 @@ grep -R -i -n -E "sinder|455755539511640067" .
 
 -->
 
-### 👋 Hello, what are you doing here?
+## Hello, what are you doing here?
 
-Anyway, here are some things about me.
-I am a ~~software developer~~ *documentation enjoyer* and *compiler negotiator*.
+Anyway, here are some things about me. I am a ~~software developer~~ *documentation enjoyer* and *compiler negotiator*.
 Most of my work has been private; I’m starting to share more through Open Source.
 ---
 
-### 🧰 Things I Use
+### Things I Use
 
-**Languages:** Rust • Python • TypeScript • SQL • C++
+**Languages:** Rust • Python • TypeScript • SQL • C
 
-**Setup:** Arch Linux • JetBrains / Neovim • KDE / Hyprland • Kanata • Fish • Brave
+**Setup:** Arch Linux • Zed / Neovim • KDE / Hyprland • Kanata • Fish • Brave
 
-### 🧠 More About Me
+### More About Me
 
 * I use cats as placeholders
-* Backend-dev who is forced to face the horrors of frontend
-* Currently diving into systems programming & library development
-* You see Windows, I see a gaming console
 * I like coffee and also water; water is so underrated
-* My public music
-  playlist: [YouTube](https://www.youtube.com/watch?v=eCqdiwxMy4k&list=PLz1jVCnNPkRTm9UfS-gtjEKiEllTTmPA0)
 * Looking into Open Source contributions
 * Sometimes, you just have to make big commits to get things done
+* Currently diving into systems programming & library development
+* You see Windows, I see a gaming console
+* My public music
+  playlist: [YouTube](https://youtube.com/playlist?list=PLz1jVCnNPkRTm9UfS-gtjEKiEllTTmPA0&si=Qrlv1n77BtVDBmQn)
 
 ---
 
-### 📬 Contact
+### Contact
 
+    
+<a href="mailto:sinder.smirnov@gmail.com" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-Email-a?style=flat&logo=Gmail&logoColor=white">
+</a>
 <a href="https://t.me/sinder" target="_blank"> 
 <img src="https://img.shields.io/badge/Telegram-%40sinder-28a8ea?logo=telegram&logoColor=white" alt=""> 
 </a> 
