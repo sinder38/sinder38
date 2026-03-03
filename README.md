@@ -15,9 +15,8 @@ grep -R -i -n -E "sinder|455755539511640067" .
 
 ## Hello, what are you doing here?
 
-Anyway, here are some things about me. I am a ~~software developer~~ *documentation enjoyer* and *compiler negotiator*.
+**Anyway**, here are some things about me. I am a ~~software developer~~ *documentation enjoyer* and *compiler negotiator*.
 Most of my work has been private; I’m starting to share more through Open Source.
----
 
 ### Things I Use
 
